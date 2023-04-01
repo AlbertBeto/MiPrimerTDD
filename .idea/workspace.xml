@@ -22,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -115,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680374859234</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Creo nuevo Test para chequear que al disminuir velocidad por deceleración no quede por debajo de 0, &#10;Modifico el Metodo desacelerar en la Class Coche para que si baja de 0 establezca la velocidad a 0. &#10;Testeado y todo correcto">
+      <created>1680375478464</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680375478464</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -125,6 +137,7 @@
     <MESSAGE value="Modifico el Test para comprobar que al crear tenga velocidad 0.&#10;Creo variable INT en la class Coche." />
     <MESSAGE value="Creo nuevo Test para aumentar velocidad por aceleración, &#10;creo Metodo en la Class Coche llamada acelerar que aumenta la variable velocidad. &#10;Testeado y todo correcto" />
     <MESSAGE value="Creo nuevo Test para disminuir velocidad por deceleración, &#10;creo Metodo en la Class Coche llamada desacelerar que disminuye la variable velocidad. &#10;Testeado y todo correcto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creo nuevo Test para disminuir velocidad por deceleración, &#10;creo Metodo en la Class Coche llamada desacelerar que disminuye la variable velocidad. &#10;Testeado y todo correcto" />
+    <MESSAGE value="Creo nuevo Test para chequear que al disminuir velocidad por deceleración no quede por debajo de 0, &#10;Modifico el Metodo desacelerar en la Class Coche para que si baja de 0 establezca la velocidad a 0. &#10;Testeado y todo correcto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creo nuevo Test para chequear que al disminuir velocidad por deceleración no quede por debajo de 0, &#10;Modifico el Metodo desacelerar en la Class Coche para que si baja de 0 establezca la velocidad a 0. &#10;Testeado y todo correcto" />
   </component>
 </project>
