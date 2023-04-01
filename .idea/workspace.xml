@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f44314c6-e4da-4d5b-b6c2-ac08d80a3459" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coche.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/TestCoche.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCoche.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680373385862</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Creo nuevo Test para aumentar velocidad por aceleración, &#10;creo Metodo en la Class Coche llamada acelerar que aumenta la variable velocidad. &#10;Testeado y todo correcto">
+      <created>1680374233432</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680374233432</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -109,6 +114,7 @@
     <MESSAGE value="Mi primer Test y creo la class Coche" />
     <MESSAGE value="Realizo el primer test" />
     <MESSAGE value="Modifico el Test para comprobar que al crear tenga velocidad 0.&#10;Creo variable INT en la class Coche." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modifico el Test para comprobar que al crear tenga velocidad 0.&#10;Creo variable INT en la class Coche." />
+    <MESSAGE value="Creo nuevo Test para aumentar velocidad por aceleración, &#10;creo Metodo en la Class Coche llamada acelerar que aumenta la variable velocidad. &#10;Testeado y todo correcto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creo nuevo Test para aumentar velocidad por aceleración, &#10;creo Metodo en la Class Coche llamada acelerar que aumenta la variable velocidad. &#10;Testeado y todo correcto" />
   </component>
 </project>
